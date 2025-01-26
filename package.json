@@ -1,5 +1,5 @@
 {
-  "name": "@kuron_13/platforms",
+  "name": "@kuron13/platforms",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
